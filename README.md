@@ -13,3 +13,7 @@ jhhh
 sakjdgh
 askdj
 ###CO{PYRITGH
+
+##HOW to contribue
+
+Please fork this repo
